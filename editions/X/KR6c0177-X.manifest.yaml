@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0177_000-X.yaml, hash: 'sha256:841b9f24e5b16c9fb8e4b5f7e87f3440dfa779f8669d1e653ebd5d5c2767e1a9'}
+  - {seq: 0, filename: KR6c0177_000-X.yaml, hash: 'sha256:ccf571de1d16eb43c847edc5b9478fe84d2f09176a9aed88fa8bec16cec8b212'}
   - {seq: 1, filename: KR6c0177_001-X.yaml, hash: 'sha256:fbb92e5e067f8651e005259c04c7792dea4e08b98d2bbd8ba2771257e2d00e98'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0177_000-X.markers.yaml, hash: 'sha256:841e3074fbda8ed20838b3ba58766a2de6e1d473a50d72752105ea7629079f92'}
+  - {seq: 0, role: markers, filename: assets/KR6c0177_000-X.markers.yaml, hash: 'sha256:6e69080be7a67bf425a57eb3ede6ee04c7fe2d4a62d872b8ae1f8daaeccd0655'}
   - {seq: 1, role: markers, filename: assets/KR6c0177_001-X.markers.yaml, hash: 'sha256:1f7c188e11ac12ac28444076f56c5428b25cfbcc30bbed57a94693023e9931b3'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0177_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 558-A 般若心經指掌序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0177_X_000-mulu-2
     span:
-    - front
+    - body
     - 336
     - 336
   label: 般若心經指掌
@@ -55,4 +55,4 @@ table_of_contents:
   label: 般若心經指掌
   type: juan
   level: 1
-hash: sha256:286b4b1b7fe51c1ef97db7e080d7449c1e772a483c34516c724eb9f24bc871da
+hash: sha256:8299cdc1a79d2b36d86f6da0689215c3c3267085cd2aa6afb475dcb3a3e9d0d5

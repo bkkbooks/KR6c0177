@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0177_000.yaml, hash: 'sha256:3173b38dd19c6220531fe5ac556fce801904e1d67eb05237ca9d225683d96182'}
+  - {seq: 0, filename: KR6c0177_000.yaml, hash: 'sha256:7d12a341de9dceee09141547fc2d91206caa6322f388d1e3ab5e9b05f1e75cd1'}
   - {seq: 1, filename: KR6c0177_001.yaml, hash: 'sha256:5f312daec55e31e33188f4161fbb36a43313fc3b3b91a5f85003399483878cd2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0177_000.markers.yaml, hash: 'sha256:78c311d267e337ed6e32bfdbbf33909326b7cc05345d7c2b184bb572937e9dc8'}
+  - {seq: 0, role: markers, filename: assets/KR6c0177_000.markers.yaml, hash: 'sha256:18f1eaa9b7e39e7ffabc5e2cca17619882245508bbbeb289bf9f5f178c6a9af6'}
   - {seq: 1, role: markers, filename: assets/KR6c0177_001.markers.yaml, hash: 'sha256:689b2a6955883f2970599d4091fefdc29b7d068e52fd52e899ac78a4f4dcbcec'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0177_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 558-A 般若心經指掌序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0177_X_000-mulu-2
     span:
-    - front
+    - body
     - 336
     - 336
   label: 般若心經指掌
@@ -57,7 +57,7 @@ table_of_contents:
   label: 般若心經指掌
   type: juan
   level: 1
-hash: sha256:b697b56aece400832c510711298eac7236c9f5d7133431006aea9c572ed053f8
+hash: sha256:26fa457defe532f012e45c86fc5288022cd22f614517f39f4938099a96bfaac3
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
